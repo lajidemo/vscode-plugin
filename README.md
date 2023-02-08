@@ -1,6 +1,6 @@
 # 食用文档
 
-详情请查看：https://xingyun.feishu.cn/wiki/wikcnE4xGsNVGvMi3kyzreodK6b?from=from_copylink
+详情请查看：https://juejin.cn/post/7090907914268835853
 
 ## 近战版(.ST)
 

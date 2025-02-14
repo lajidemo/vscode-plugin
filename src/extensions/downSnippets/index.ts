@@ -56,6 +56,7 @@ export const downSnippets = commands.registerCommand(
       await getProjectTreeTrategy[
         getUserInfo('sourceDataTag') as sourceDataTagType
       ]()
+      // 会覆盖掉本地的
       window.showInformationMessage(
         `${getUserInfo('sourceDataTag')} 形态片段数据同步完成`
       )
